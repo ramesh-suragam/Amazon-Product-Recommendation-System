@@ -46,4 +46,4 @@ git clone https://github.com/ramesh-suragam/Product-Recommendation-System.git
 
 Due to github space restrictions the json data files are zipped to .gz files under data/*.gz.
 
-After cloning extract the .gz files into data directory
+After cloning extract the .gz files into data directory.
