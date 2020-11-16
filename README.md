@@ -1,4 +1,4 @@
-# Product-Recommendation-System
+# Amazon Product Recommendation System
 
 Amazon Product Recommendation
 Online E-commerce websites like Amazon, Filpkart uses different recommendation models to provide different suggestions to different users. Amazon currently uses item-to-item collaborative filtering, which scales to massive data sets and produces high-quality recommendations in real time. This type of filtering matches each of the user's purchased and rated items to similar items, then combines those similar items into a recommendation list for the user. In this project we are going to build recommendation model for the electronics products of Amazon.
@@ -34,12 +34,12 @@ Both these recommendation systems can be defined as below:
 
 ### Clone:
 
-The code can be cloned from the GIT URL: https://github.com/ramesh-suragam/Product-Recommendation-System.git
+The code can be cloned from the GIT URL: https://github.com/ramesh-suragam/Amazon-Product-Recommendation-System.git
 
 Run the below code for cloning this repo
 
 ```bash
-git clone https://github.com/ramesh-suragam/Product-Recommendation-System.git
+git clone https://github.com/ramesh-suragam/Amazon-Product-Recommendation-System.git
 ```
 
 ### Data extraction
